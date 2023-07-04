@@ -1,0 +1,9 @@
+Nozzle: 0.4
+Rafts: no
+Supports: no
+Layer Hight :0.25
+Extrosion width: 0.5
+Infill: 0%
+Printer type: FDM
+Wall Thickness: 4
+Filament Type: PLA/PETG
