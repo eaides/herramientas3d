@@ -1,0 +1,142 @@
+solid Fusion001 (Meshed)
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 400.000000 137.699997 11.300000
+      vertex 0.000000 137.699997 11.300000
+      vertex 0.000000 135.699997 11.300000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 400.000000 137.699997 11.300000
+      vertex 0.000000 135.699997 11.300000
+      vertex 400.000000 135.699997 11.300000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 400.000000 137.699997 11.300000
+      vertex 400.000000 137.699997 6.300000
+      vertex 0.000000 137.699997 6.300000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 400.000000 137.699997 11.300000
+      vertex 0.000000 137.699997 6.300000
+      vertex 0.000000 137.699997 11.300000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 400.000000 141.000000 6.300000
+      vertex 0.000000 141.000000 6.300000
+      vertex 0.000000 137.699997 6.300000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 400.000000 141.000000 6.300000
+      vertex 0.000000 137.699997 6.300000
+      vertex 400.000000 137.699997 6.300000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 400.000000 141.000000 6.300000
+      vertex 400.000000 141.000000 3.000000
+      vertex 0.000000 141.000000 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 400.000000 141.000000 6.300000
+      vertex 0.000000 141.000000 3.000000
+      vertex 0.000000 141.000000 6.300000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 137.699997 6.300000
+      vertex 0.000000 135.699997 11.300000
+      vertex 0.000000 137.699997 11.300000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 137.699997 6.300000
+      vertex 0.000000 141.000000 6.300000
+      vertex 0.000000 141.000000 3.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 135.699997 3.000000
+      vertex 0.000000 137.699997 6.300000
+      vertex 0.000000 141.000000 3.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 135.699997 3.000000
+      vertex 0.000000 135.699997 11.300000
+      vertex 0.000000 137.699997 6.300000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 400.000000 135.699997 3.000000
+      vertex 400.000000 135.699997 11.300000
+      vertex 0.000000 135.699997 11.300000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 400.000000 135.699997 3.000000
+      vertex 0.000000 135.699997 11.300000
+      vertex 0.000000 135.699997 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex 0.000000 135.699997 3.000000
+      vertex 400.000000 141.000000 3.000000
+      vertex 400.000000 135.699997 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex 0.000000 141.000000 3.000000
+      vertex 400.000000 141.000000 3.000000
+      vertex 0.000000 135.699997 3.000000
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 0.000000
+    outer loop
+      vertex 400.000000 137.699997 6.300000
+      vertex 400.000000 135.699997 3.000000
+      vertex 400.000000 141.000000 3.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 400.000000 137.699997 6.300000
+      vertex 400.000000 141.000000 3.000000
+      vertex 400.000000 141.000000 6.300000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 400.000000 135.699997 11.300000
+      vertex 400.000000 137.699997 6.300000
+      vertex 400.000000 137.699997 11.300000
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 0.000000
+    outer loop
+      vertex 400.000000 135.699997 11.300000
+      vertex 400.000000 135.699997 3.000000
+      vertex 400.000000 137.699997 6.300000
+    endloop
+  endfacet
+endsolid Mesh
